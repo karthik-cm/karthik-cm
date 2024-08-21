@@ -1,8 +1,5 @@
 #### 👋 Hi there, I'm Karthik
-#### 🤓 A Passionate Software Engineer interested in Computer Science, Problem Solving, Software Development (Full Stack)
-#### 😎 Tech Enthusiast, CS Geek, Video Gamer
-#### 📫 Reach me at karthikcmanjunath@gmail.com
-#### 👉🏻 https://karthik-cm.github.io/portfolio/
+#### 🤓 Software Engineer, Tech Enthusiast, CS Geek
 
 <!--
 **karthik-cm/karthik-cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
